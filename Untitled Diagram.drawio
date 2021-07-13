@@ -1,65 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T09:39:23.432Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="5b_CRzwyDAvJjZFQF8ho" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-13T10:54:44.577Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="J0YnXHYh4FQq0brKOCaG" version="14.2.6" type="github">
   <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
-    <mxGraphModel dx="1185" dy="558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="669" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="57fe6abec08f04cb-1" value="&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;Приоретизация&lt;br&gt;&amp;nbsp;задач&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=14;fillColor=#0080FF;fontColor=#FFFFFF;strokeColor=none;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="90" y="180" width="170" height="80" as="geometry" />
+          <mxGeometry x="172" y="78" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="57fe6abec08f04cb-2" value="&lt;font style=&quot;font-size: 19px&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;Разработка&lt;/b&gt;&lt;/font&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0075E8;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="240" y="180" width="170" height="80" as="geometry" />
+        <mxCell id="57fe6abec08f04cb-2" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px&quot;&gt;&amp;nbsp; &amp;nbsp;Разработка&lt;/b&gt;&lt;/font&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0075E8;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="322" y="78" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="57fe6abec08f04cb-3" value="&lt;font style=&quot;font-size: 19px&quot;&gt;&lt;b&gt;&amp;nbsp; Предрелиз&lt;/b&gt;&lt;/font&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0067CC;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="390" y="180" width="170" height="80" as="geometry" />
+        <mxCell id="57fe6abec08f04cb-3" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;&amp;nbsp; Предрелиз&lt;br&gt;20-е число&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0067CC;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="472" y="78" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="57fe6abec08f04cb-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;&amp;nbsp; &amp;nbsp;Уведомление&lt;/font&gt;&lt;/b&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0062C4;fontColor=#FFFFFF;strokeColor=none;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="540" y="180" width="180" height="80" as="geometry" />
+        <mxCell id="57fe6abec08f04cb-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;&amp;nbsp; &amp;nbsp;Уведомление&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0062C4;fontColor=#FFFFFF;strokeColor=none;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="622" y="78" width="169" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HPh8YrP9LHuDdXldecg3-10" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;entryX=0.194;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1;strokeWidth=11;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" edge="1" parent="1" target="57fe6abec08f04cb-1">
+        <mxCell id="HPh8YrP9LHuDdXldecg3-10" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;fontStyle=1;strokeWidth=11;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.176;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="57fe6abec08f04cb-5" target="57fe6abec08f04cb-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="220" as="targetPoint" />
-            <mxPoint x="860" y="224" as="sourcePoint" />
+            <mxPoint x="172" y="114" as="targetPoint" />
+            <mxPoint x="953" y="191" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="880" y="220" />
-              <mxPoint x="880" y="480" />
-              <mxPoint x="80" y="480" />
-              <mxPoint x="80" y="224" />
+              <mxPoint x="982" y="116" />
+              <mxPoint x="982" y="376" />
+              <mxPoint x="147" y="376" />
+              <mxPoint x="147" y="122" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="57fe6abec08f04cb-5" value="&lt;b&gt;Релиз&lt;/b&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0059B0;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="700" y="180" width="160" height="80" as="geometry" />
+        <mxCell id="57fe6abec08f04cb-5" value="&lt;b style=&quot;font-size: 17px&quot;&gt;Релиз&lt;br&gt;1-е число&lt;br&gt;&lt;/b&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0059B0;fontColor=#FFFFFF;strokeColor=none;size=0.18854166666666786;" parent="1" vertex="1">
+          <mxGeometry x="774" y="76" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="57fe6abec08f04cb-7" value="&lt;span style=&quot;font-size: 26px&quot;&gt;Standart FLOW&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=#61BAFF;align=center;verticalAlign=bottom;whiteSpace=wrap;fontSize=54;fontStyle=1;fontColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="90" y="120" width="740" height="50" as="geometry" />
+          <mxGeometry x="172" y="18" width="740" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="57fe6abec08f04cb-10" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Юра или кто-то из команды присылает(канал&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(29 , 28 , 29) ; font-weight: 900&quot;&gt;vchasno-kassa-dm&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(29 , 28 , 29)&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(29 , 28 , 29) ; font-weight: 900&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&amp;nbsp;в 20-х числах лог измений, которые выйдут в новой версии&lt;/span&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="390" y="280" width="140" height="100" as="geometry" />
+        <mxCell id="57fe6abec08f04cb-10" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Юра или кто-то из команды присылает(канал&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(29 , 28 , 29) ; font-weight: 900&quot;&gt;vchasno-kassa-dm&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(29 , 28 , 29)&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(29 , 28 , 29) ; font-weight: 900&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&amp;nbsp;в 20-х числах лог измений, которые выйдут в новой версии.&lt;br&gt;&lt;br&gt;Тут должны быть только те изменения, которые точно мы добавим в новую версию всем клиентам&lt;br&gt;&lt;/span&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="472" y="178" width="140" height="192" as="geometry" />
         </mxCell>
         <mxCell id="57fe6abec08f04cb-11" value="Ответственный переводит логи дм на человеческий язык и отправляет информацию об изменениях в релизе в отдел маркетинга, где данные причесываются и отправляются клиентам по почте, также должны публиковаться на странице фейсбук." style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="550" y="280" width="140" height="190" as="geometry" />
+          <mxGeometry x="632" y="178" width="140" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="57fe6abec08f04cb-12" value="Через 3-5 рабочих дней после предрелизного уведомления для клиентовм выкладывается новая версия на гугл-диск.&lt;br&gt;&lt;br&gt;В идеале, чтобы ДМ размещался где-то на лендинге Вчасно.Каса." style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="700" y="280" width="140" height="150" as="geometry" />
+        <mxCell id="57fe6abec08f04cb-12" value="Через 3-5 рабочих дней после предрелизного уведомления для клиентовм выкладывается новая версия на гугл-диск.&lt;br&gt;&lt;br&gt;В идеале, чтобы ДМ размещался где-то на лендинге Вчасно.Каса.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Дедлайн 1 число месяца, либо первый день после выходных&lt;/font&gt;&lt;/b&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="782" y="178" width="152" height="202" as="geometry" />
         </mxCell>
         <mxCell id="HPh8YrP9LHuDdXldecg3-5" value="В процессе работы собираются пожелания от клиентов, задачи приоретизируются и отправляются в разработку" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="90" y="280" width="290" height="100" as="geometry" />
+          <mxGeometry x="172" y="178" width="290" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HPh8YrP9LHuDdXldecg3-12" value="&lt;span style=&quot;font-size: 26px&quot;&gt;HOTFIX&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=#61BAFF;align=center;verticalAlign=bottom;whiteSpace=wrap;fontSize=54;fontStyle=1;fontColor=#004D99;" vertex="1" parent="1">
-          <mxGeometry x="90" y="490" width="740" height="60" as="geometry" />
+          <mxGeometry x="172" y="388" width="740" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HPh8YrP9LHuDdXldecg3-13" value="&lt;font style=&quot;font-size: 19px&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;Разработка&lt;/b&gt;&lt;/font&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0075E8;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="560" width="170" height="80" as="geometry" />
+          <mxGeometry x="172" y="453" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HPh8YrP9LHuDdXldecg3-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;&amp;nbsp; &amp;nbsp;Уведомление&lt;/font&gt;&lt;/b&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0062C4;fontColor=#FFFFFF;strokeColor=none;spacing=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="560" width="180" height="80" as="geometry" />
+          <mxGeometry x="732" y="453" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HPh8YrP9LHuDdXldecg3-15" value="&lt;b&gt;Релиз&lt;/b&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0059B0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="380" y="560" width="160" height="80" as="geometry" />
+          <mxGeometry x="462" y="453" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HPh8YrP9LHuDdXldecg3-16" value="Уведомление необходимо делать как можно быстрее, но не раньше выкладки хотфикса на диск" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="640" y="640" width="200" height="50" as="geometry" />
+          <mxGeometry x="722" y="538" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HPh8YrP9LHuDdXldecg3-17" value="&lt;font style=&quot;font-size: 9px&quot; color=&quot;#ff3333&quot;&gt;!!!!Должно занимать не более 5-ти дней после предрелизного сообщения!!!&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="605" y="140" width="184" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="HPh8YrP9LHuDdXldecg3-18" value="&lt;span style=&quot;font-size: 26px&quot;&gt;Персональные доработки&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=#61BAFF;align=center;verticalAlign=bottom;whiteSpace=wrap;fontSize=54;fontStyle=1;fontColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="172" y="588" width="740" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HPh8YrP9LHuDdXldecg3-19" value="&lt;font style=&quot;font-size: 19px&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;Разработка&lt;/b&gt;&lt;/font&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0075E8;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="172" y="651" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HPh8YrP9LHuDdXldecg3-20" value="&lt;b&gt;Релиз&lt;/b&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0059B0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="462" y="651" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HPh8YrP9LHuDdXldecg3-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;&amp;nbsp; &amp;nbsp;Уведомление&lt;/font&gt;&lt;/b&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0062C4;fontColor=#FFFFFF;strokeColor=none;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="651" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HPh8YrP9LHuDdXldecg3-22" value="Те доработки, которые делаются лично для клиента и нужны чтобы быстрее запустить процесс интеграции/внедрения и не потерять клиента&lt;br&gt;????КАК БУДЕМ РЕАЛИЗОВЫВАТЬ???&lt;br&gt;" style="whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="166" y="748" width="752" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="HPh8YrP9LHuDdXldecg3-23" value="&lt;font style=&quot;font-size: 11px&quot; color=&quot;#ff3333&quot;&gt;Любыми силами организовать максимум за час&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="745" y="450" width="158" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
