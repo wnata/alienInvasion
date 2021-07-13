@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T09:06:39.390Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="pPXortwPu0Hazb5BSOUp" version="14.2.6" type="github"><diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">7VpLk+I2EP41HLNlGwzmuDDDbqWyuZBUzkJuQLWy5JElYPLr0y3JPMZsZQ8h+GAO2P2QuvV181kqPBovq9MXw+r9N12CHGVJeRqNX0ZZlk6SAi+keQ+a2SQqdkaU0emiWIu/ISqTqHWihObG0WotrahvlVwrBdze6Jgx+njrttXyNmrNdtBRrDmTXe1forT7qE2T5GL4CmK3j6GLPBo2jH/fGe1UjKe0gmCpWDtNdG32rNTHK9X4dTReGq1tuKtOS5AEa4tYGLf6gfWcsgFlf2ZAPtvClG2AJ8U2mfDNL3GGA5MuwvArUzFX+95Cg2nXdNtYqEfjxXEvLKxrxkl3xG5A3d5WEqUUb7da2VjerCBZSLnUUhs/2ThJimS1in5X+pX/oL6xRn+H1uLRHC+6K21TB2PhdKWKK/8CugJr3tElWuexCLE/0yLKx6tqz6Juf13oqGOxwXbnmS9I400E+yeBzzrAf2Pm0cDP8tfiCcBnkz4hP76D/PujkZ/OlssnID/uVc9PumTj5OOhz5aTJ0Cf96rp8w70awT3wcjn80XyBOSnvWr6aQf53/Xh0chPXubzJyBf9KrnZx3ksySddaDHtdlbeO/C8wHjabr47LFkUuwU6jjCBmhcEFwCt5Wfo6ESZUmx7hb1qpJ5y1LrmFvareC5sv9BsdLsQ7HSbrGK6Z1iTR9RrKJTrN+0gYqG1I2ja+lhwNIJS8Ex5ChbhvNAg+cBsI6srBS1aAQXaocSSBG9Gij9HKQUrqk0iRaq2s8pFBelKJ2iqR19SbbB+ORt29jgd/Q7xSiMFG+OfcK7P8kOSlQ+OLmIIBxQyaoQ/c2JBi9KY2s5coITGC4ss0IrCiklq7hu4wZnXEabjQ8naj+Qvphfd4Wr0C0CmI6lfF5CKOYs5SuM83m34AmKZqA2sAdVgvFYeuVBS1djQuBT97gl0DQkcmz9Swk8KA6/tm4nGLkpSj+0IyqcoTReTxxqCy5UzOOqOWfA/QjualEyG0Z7BGqj8fin2mqFSvjEuJM1CxjSJNstFpdkPCyCCX6VliFhFqAXHuLmXEdXYUpTST/zDSY03dHd2neEh7cG09Q0rfXY4UmOFqkr5UXReFAULo1EwLPmpQ/PsPn6c+4apqy4Qqt6c+DzcGVroRVabak5ktDjSP7m3CzAwhBs/LBuRhLbkEpK7XHB5rKhFAcqYkzc9yr6+8ZhhhPhcEsjNoBoe3cRrqXgll2QhlMtkbQ2+tOP+LFB4sIf1R8aaesF9xMdRtz6z78/vFrClLC1twyYZlFesUpIoqWvIA9AbPohXOTkRz3Hzmf+SI3ZvefY5A41TmaP4Mb5wI0DNw7cOHBjH7gxy3vFje2mdSDHgRwHchzI8bnkOOnXxjHt/r0zkONAjgM5DuT4BHLMe7Zz7P4FO5DjQI4DOQ7k+ARynPVs59h9S2Igx4EcB3IcyPEJ5Fjk+f9HjiheXsj0tqsXXsev/wA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-13T09:34:53.073Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="MxvKJth-tVSQ0JZW4rai" version="14.2.6" type="github">
+  <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
+    <mxGraphModel dx="1422" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="57fe6abec08f04cb-1" value="&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;Приоретизация&lt;br&gt;&amp;nbsp;задач&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=14;fillColor=#0080FF;fontColor=#FFFFFF;strokeColor=none;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="90" y="180" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-2" value="&lt;font style=&quot;font-size: 19px&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;Разработка&lt;/b&gt;&lt;/font&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0075E8;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="180" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-3" value="&lt;font style=&quot;font-size: 19px&quot;&gt;&lt;b&gt;&amp;nbsp; Предрелиз&lt;/b&gt;&lt;/font&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0067CC;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="390" y="180" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;&amp;nbsp; &amp;nbsp;Уведомление&lt;/font&gt;&lt;/b&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0062C4;fontColor=#FFFFFF;strokeColor=none;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="540" y="180" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HPh8YrP9LHuDdXldecg3-10" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;entryX=0.194;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1;strokeWidth=11;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" edge="1" parent="1" target="57fe6abec08f04cb-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="220" as="targetPoint" />
+            <mxPoint x="860" y="224" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="880" y="220" />
+              <mxPoint x="880" y="480" />
+              <mxPoint x="80" y="480" />
+              <mxPoint x="80" y="224" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-5" value="&lt;b&gt;Релиз&lt;/b&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0059B0;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="700" y="180" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-7" value="&lt;span style=&quot;font-size: 26px&quot;&gt;Standart FLOW&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=#61BAFF;align=center;verticalAlign=bottom;whiteSpace=wrap;fontSize=54;fontStyle=1;fontColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="90" y="120" width="740" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-10" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Юра или кто-то из команды присылает(канал&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(29 , 28 , 29) ; font-weight: 900&quot;&gt;vchasno-kassa-dm&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(29 , 28 , 29)&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(29 , 28 , 29) ; font-weight: 900&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&amp;nbsp;в 20-х числах лог измений, которые выйдут в новой версии&lt;/span&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="390" y="280" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-11" value="Ответственный переводит логи дм на человеческий язык и отправляет информацию об изменениях в релизе в отдел маркетинга, где данные причесываются и отправляются клиентам по почте, также должны публиковаться на странице фейсбук." style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="550" y="280" width="140" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-12" value="Через 3-5 рабочих дней после предрелизного уведомления для клиентовм выкладывается новая версия на гугл-диск.&lt;br&gt;&lt;br&gt;В идеале, чтобы ДМ размещался где-то на лендинге Вчасно.Каса." style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="700" y="280" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HPh8YrP9LHuDdXldecg3-5" value="В процессе работы собираются пожелания от клиентов, задачи приоретизируются и отправляются в разработку" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="280" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HPh8YrP9LHuDdXldecg3-12" value="&lt;span style=&quot;font-size: 26px&quot;&gt;HOTFIX&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=#61BAFF;align=center;verticalAlign=bottom;whiteSpace=wrap;fontSize=54;fontStyle=1;fontColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="90" y="490" width="740" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HPh8YrP9LHuDdXldecg3-13" value="&lt;font style=&quot;font-size: 19px&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;Разработка&lt;/b&gt;&lt;/font&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0075E8;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="560" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HPh8YrP9LHuDdXldecg3-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;&amp;nbsp; &amp;nbsp;Уведомление&lt;/font&gt;&lt;/b&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0062C4;fontColor=#FFFFFF;strokeColor=none;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="560" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HPh8YrP9LHuDdXldecg3-15" value="&lt;b&gt;Релиз&lt;/b&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0059B0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="560" width="160" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
