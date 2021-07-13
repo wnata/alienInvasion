@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T11:02:31.447Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="q-CtXGKwDx2bITQqM_Ei" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-13T11:07:29.599Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="CXQKeRM8PqctW-eUH9aT" version="14.2.6" type="github">
   <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
-    <mxGraphModel dx="1422" dy="669" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="787" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,7 +73,7 @@
         <mxCell id="HPh8YrP9LHuDdXldecg3-20" value="&lt;b&gt;Релиз&lt;/b&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="421" y="651" width="249" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HPh8YrP9LHuDdXldecg3-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;&amp;nbsp; &amp;nbsp;Уведомление&lt;/font&gt;&lt;/b&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#d5e8d4;strokeColor=#82b366;spacing=0;" vertex="1" parent="1">
+        <mxCell id="HPh8YrP9LHuDdXldecg3-21" value="&lt;b&gt;&lt;font&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&amp;nbsp; &amp;nbsp;Уведомление&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#d5e8d4;strokeColor=#82b366;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="643" y="651" width="267" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HPh8YrP9LHuDdXldecg3-22" value="Те доработки, которые делаются лично для клиента и нужны чтобы быстрее запустить процесс интеграции/внедрения и не потерять клиента&lt;br&gt;????КАК БУДЕМ РЕАЛИЗОВЫВАТЬ??? Вопрос к разработке" style="whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="HPh8YrP9LHuDdXldecg3-28" value="&lt;b style=&quot;color: rgb(0 , 0 , 0) ; font-size: 24px&quot;&gt;Задача №2&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=17;fontColor=#FF3333;position2=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="694" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HPh8YrP9LHuDdXldecg3-29" value="&lt;b style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;проводятся персонально разработкой, либо менеджером&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="690" y="690" width="193.5" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
