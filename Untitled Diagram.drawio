@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T09:24:20.893Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="04v5wivAnjUMKxVAuPo4" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-20T10:20:29.328Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="EzE4ICM9Fz4OmQ8FyI-D" version="14.8.6" type="github">
   <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
     <mxGraphModel dx="1474" dy="703" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -155,6 +155,18 @@
         </mxCell>
         <mxCell id="56e9k1VHSmVonkdyJKSb-39" value="Выпуск индивидуальных обновлений для клиентов" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="56e9k1VHSmVonkdyJKSb-37">
           <mxGeometry y="52" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="56e9k1VHSmVonkdyJKSb-54" value="&lt;font style=&quot;font-size: 21px&quot;&gt;Обробки для 1С&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="457.5" y="1347" width="169" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="56e9k1VHSmVonkdyJKSb-55" value="&lt;p style=&quot;font-size: 14px&quot;&gt;Обробка №1 підходить для:&lt;br&gt;&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;noto sans&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;- &lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Управління торговим підприємством&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;- Управління промисловим підприємством&lt;br&gt;&lt;/span&gt;&amp;nbsp;- Управління торгівлею&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210.5" y="1366" width="289" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="56e9k1VHSmVonkdyJKSb-56" value="&lt;p&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Обробка №2 підходить для:&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;- Управління невеликою фірмою для України&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;- Управління торгівлею для України&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;- BAS Small Business&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;- BAS Управління торгівлею&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210.5" y="1450" width="305" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="56e9k1VHSmVonkdyJKSb-57" value="&lt;p style=&quot;font-size: 14px&quot;&gt;Драйвери для торгового устаткування(каса ККМ):&lt;br&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;- Business automation software for retail 2.2.12.1 &lt;font color=&quot;#3399ff&quot;&gt;&lt;u&gt;Завантажити&lt;/u&gt; &lt;u&gt;Інструкція&lt;/u&gt;&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;- Business Automation Software for small company. PROF (1.6.11.2) &lt;font color=&quot;#3399ff&quot;&gt;&lt;u&gt;Завантажити&lt;/u&gt; &lt;u&gt;Інструкція&lt;/u&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210.5" y="1558" width="595" height="74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
