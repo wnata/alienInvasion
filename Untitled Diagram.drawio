@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T12:32:44.494Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" version="14.9.9" etag="o7isvqpS3vyaXYtKQHX2" type="github"><diagram id="sSgsC8RxLn_-dZl7abyG">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-28T07:06:34.528Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="gkmVt4xZJ6WLgykmXrRn" version="15.2.7" type="github">
+  <diagram id="sSgsC8RxLn_-dZl7abyG" name="Page-1">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C9QFXdIOQc-tEjIQUxdI-1" value="СЕО" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C9QFXdIOQc-tEjIQUxdI-2" value="Develeopment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="50" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C9QFXdIOQc-tEjIQUxdI-3" value="Legal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="160" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C9QFXdIOQc-tEjIQUxdI-4" value="Схема" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="30" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C9QFXdIOQc-tEjIQUxdI-5" value="Макет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="60" width="50" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
